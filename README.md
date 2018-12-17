@@ -7,4 +7,3 @@ written with the assitance of google and Social Platform articles.
 # Write image after removed noise
 # Write the image after apply opencv to do some
 # Recognize text with tesseract for python
-
