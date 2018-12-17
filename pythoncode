@@ -52,8 +52,8 @@ def get_string(img_path):
     i = "Series ber tind"
     #print (i)
     if ( result == i):
-        #print ("Failed to redirect !")
-        tt = "Failed to redirect !"
+        #print ("failed ##!!")
+        tt = "failed ##!!"
     else :
         #print ("Not Match")
         tt ="succesful"
