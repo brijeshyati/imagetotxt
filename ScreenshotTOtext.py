@@ -1,6 +1,7 @@
 """
-reading the specific text from screenshot saving in png mode (taken using selenium webdrive command)
-for further details refer other script
+reading the specific text from screenshot saving in png mode at the particular path(taken using selenium webdrive command)
+for further details refer other script (screenshotUSINGseleniumwebdriver.py)
+
 """"
 # -*- coding: utf-8 -*-
 from __future__ import print_function
