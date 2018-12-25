@@ -1,3 +1,8 @@
+""""
+this scipt access the web page using selenium python and take screeshot and save it at the particular path.
+using size of file read the particular error messages and print it in log file
+""""
+
 # -*- coding: utf-8 -*-
 import os
 import sys
@@ -16,7 +21,8 @@ sys.stdout = f
 
 def filelist():
 
-        data = pd.read_csv("C:/Users/XXXXXXXXXX/python_learning/cktidlist.csv",sep=',')
+	## reading the details from csv files
+        data = pd.read_csv("C:/Users/XXXXXXXXXX/python_learning/filelistdetails.csv",sep=',')
         data.headername
 
 
