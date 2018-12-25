@@ -1,5 +1,5 @@
 # imagetotxt
-written with the assitance of google and Social Platform articles.
+written with the assitance of google and other Social Platform articles.
 
 # Read image with opencv
 # Convert to gray
